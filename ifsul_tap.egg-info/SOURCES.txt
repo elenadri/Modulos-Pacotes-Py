@@ -1,0 +1,7 @@
+setup.py
+ifsul_tap/__init__.py
+ifsul_tap/modulo.py
+ifsul_tap.egg-info/PKG-INFO
+ifsul_tap.egg-info/SOURCES.txt
+ifsul_tap.egg-info/dependency_links.txt
+ifsul_tap.egg-info/top_level.txt
