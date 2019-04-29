@@ -44,6 +44,9 @@ Para instalar un paquete en Python, y finalmente hacer que éste se pueda utiliz
 
 Ahora, si utilizamos el comando pip3 list, podremos consultar todos los paquetes instalados en nuestro Python, y podremos ver también el nuestro. Si aparece correctamente podremos utilizar nuestro paquete desde cualquier script, pues se encuentra instalado dentro de Python.
 
+**como ejecutar**
+en termilar : from ifsul_tap import *
+
 Finalmente utilizando el comando pip uninstall para desinstalarlo:
 `pip uninstall ifsul_tap`
 
